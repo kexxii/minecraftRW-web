@@ -22,12 +22,14 @@
 </head>
 <body>
 
-
 <div class="container lightGreen pullDown">
-  <a>KEZDŐLAP</a>
-  <a>CSAPAT</a>
-  <a>SZERVERRŐL</a>
+  <a>FRISSÍTÉSEK</a>
+  <a>ELÉRHETŐSÉGEK</a>
+  <a>BLOG</a>
 </div>
+
+<br>
+<br>
 
 </body>
 <style>
@@ -126,3 +128,4 @@ div.pullDown a:hover:before
 
 </style>
 </html>
+
